@@ -1,0 +1,3 @@
+# GhostWriter
+
+GhostWriter is a simple application that can simulate keyboard input. Text is added in the textbox and then output in any application by moving focus to the intended window and pressing the Print Screen key. It will write 1 line of text and then break. Another Print Screen key press will output the next line. Lines are written with a random delat between keypresses to simulate real typing.
